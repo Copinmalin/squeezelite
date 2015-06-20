@@ -1,10 +1,4 @@
 <html>
-<head>
-
-<title> squeezelite lightweight headless squeezebox emulator - Google Project Hosting </title>
- 
-</head>
-
 <body>
 
  <h1><a name="Headless_squeezebox_emulator_for_linux/osx/windows"></a>Headless squeezebox emulator for linux/osx/windows<a href="#Headless_squeezebox_emulator_for_linux/osx/windows" class="section_anchor"></a></h1>
